@@ -1,0 +1,1 @@
+No se pudo hacer el commit del paso 8, porque las carpetas vacias no se consideran como cambios o adiciones de nuevos archivos al proyecto.
