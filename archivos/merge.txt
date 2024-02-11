@@ -1,3 +1,6 @@
 Santiago Ochoa Cardona
 18
 Dominar los fundamentos de la programación orientada a objetos, desarrollar habilidades prácticas aplicándolas en proyectos reales, contribuir a proyectos de código abierto y buscar oportunidades profesionales en el campo del desarrollo de software.
+Porque la carpeta ya no esta vacia y eso representa un cambio para GitHub en el repositorio, permitiendo hacer el commit.
+
+Porque se generan conflictos y nos tocara realizar una mezcla manual y elegir con que cambios nos quedamos en las partes que hay conflictos.
